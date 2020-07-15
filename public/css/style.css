@@ -1,0 +1,11 @@
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: content-box;
+    -moz-box-sizing: content-box;
+}
+
+h1 {
+    color: aqua;
+}
